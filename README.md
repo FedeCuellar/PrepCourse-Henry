@@ -1,1 +1,1 @@
-este es un proyecto de prueba de como crear un repositorio de github a mi computadora
+este es un proyecto de prueba clonando de github a computadora
